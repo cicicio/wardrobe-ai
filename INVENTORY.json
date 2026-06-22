@@ -18,5 +18,25 @@
     "paleta": ["inverno_frio", "inverno_escuro"],
     "ocasioes": ["almoco", "shopping", "viagem", "evento_casual", "saida_com_amigos"],
     "observacoes": "Tenis Nike Dunk Low preto com swoosh branco e entressola branca."
+  },
+  {
+    "id": "JAQ001",
+    "nome": "Jaqueta Overshirt Xadrez Marrom e Bege",
+    "categoria": "sobreposicao",
+    "subcategoria": "jaqueta",
+    "cor_principal": "marrom",
+    "cores_secundarias": ["bege", "off-white"],
+    "material": "null",
+    "estilo": ["casual"],
+    "formalidade": 3,
+    "temperatura": ["ameno", "frio"],
+    "estacao": ["outono", "inverno"],
+    "sobreposicao": true,
+    "destaque_visual": 4,
+    "versatilidade": 4,
+    "compatibilidade_usuario": 2,
+    "paleta": ["outono_quente"],
+    "ocasioes": ["almoco", "shopping", "viagem", "saida_com_amigos", "evento_casual"],
+    "observacoes": "Overshirt xadrez marrom e bege com fechamento por ziper."
   }
 ]
