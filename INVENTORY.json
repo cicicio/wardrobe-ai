@@ -38,5 +38,25 @@
     "paleta": ["outono_quente"],
     "ocasioes": ["almoco", "shopping", "viagem", "saida_com_amigos", "evento_casual"],
     "observacoes": "Overshirt xadrez marrom e bege com fechamento por ziper."
+  },
+  {
+    "id": "TEN002",
+    "nome": "Adidas Court Branco e Preto",
+    "categoria": "calcado",
+    "subcategoria": "tenis",
+    "cor_principal": "branco",
+    "cores_secundarias": ["preto"],
+    "material": "mesh",
+    "estilo": ["casual", "esportivo"],
+    "formalidade": 2,
+    "temperatura": ["ameno", "calor"],
+    "estacao": ["primavera", "verao", "outono"],
+    "sobreposicao": false,
+    "destaque_visual": 2,
+    "versatilidade": 5,
+    "compatibilidade_usuario": 5,
+    "paleta": ["inverno_frio"],
+    "ocasioes": ["almoco", "shopping", "viagem", "evento_casual", "saida_com_amigos"],
+    "observacoes": "Tenis Adidas branco com tres listras pretas e solado branco."
   }
 ]
