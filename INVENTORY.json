@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "TEN001",
+    "nome": "Nike Dunk Low Preto e Branco",
+    "categoria": "calcado",
+    "subcategoria": "tenis",
+    "cor_principal": "preto",
+    "cores_secundarias": ["branco"],
+    "material": "couro",
+    "estilo": ["casual", "streetwear"],
+    "formalidade": 3,
+    "temperatura": ["ameno", "frio", "calor"],
+    "estacao": ["primavera", "verao", "outono", "inverno"],
+    "sobreposicao": false,
+    "destaque_visual": 2,
+    "versatilidade": 5,
+    "compatibilidade_usuario": 5,
+    "paleta": ["inverno_frio", "inverno_escuro"],
+    "ocasioes": ["almoco", "shopping", "viagem", "evento_casual", "saida_com_amigos"],
+    "observacoes": "Tenis Nike Dunk Low preto com swoosh branco e entressola branca."
+  }
+]
