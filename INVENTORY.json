@@ -58,5 +58,25 @@
     "paleta": ["inverno_frio", "inverno_escuro"],
     "ocasioes": ["academia"],
     "observacoes": "Adidas Dropset 4 branco com tres listras pretas, especifico para treino de musculacao e exercicios de estabilidade."
+  },
+  {
+    "id": "CAL001",
+    "nome": "Calca Preta Slim",
+    "categoria": "inferior",
+    "subcategoria": "calca",
+    "cor_principal": "preto",
+    "cores_secundarias": [],
+    "material": null,
+    "estilo": ["casual", "elegante"],
+    "formalidade": 4,
+    "temperatura": ["ameno", "frio"],
+    "estacao": ["primavera", "outono", "inverno"],
+    "sobreposicao": false,
+    "destaque_visual": 1,
+    "versatilidade": 5,
+    "compatibilidade_usuario": 5,
+    "paleta": ["inverno_frio", "inverno_escuro"],
+    "ocasioes": ["almoco", "jantar", "shopping", "evento_casual", "saida_com_amigos"],
+    "observacoes": "Calca preta de modelagem slim em tecido liso."
   }
 ]
