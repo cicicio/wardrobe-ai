@@ -53,10 +53,10 @@
     "estacao": ["primavera", "verao", "outono", "inverno"],
     "sobreposicao": false,
     "destaque_visual": 2,
-    "versatilidade": 3,
+    "versatilidade": 2,
     "compatibilidade_usuario": 4,
     "paleta": ["inverno_frio", "inverno_escuro"],
-    "ocasioes": ["academia", "viagem", "evento_casual"],
-    "observacoes": "Adidas Dropset 4 branco com tres listras pretas, projetado para treino e musculacao, com cabedal em mesh respiravel e base de alta estabilidade."
+    "ocasioes": ["academia"],
+    "observacoes": "Adidas Dropset 4 branco com tres listras pretas, especifico para treino de musculacao e exercicios de estabilidade."
   }
 ]
