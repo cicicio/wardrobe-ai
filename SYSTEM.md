@@ -25,6 +25,20 @@ Sua função inclui:
 ## Regras de estilo do usuário
 ...
 
+## Regras para recomendações
+
+- Utilize exclusivamente peças presentes em `INVENTORY.json`.
+- Nunca assuma que o usuário possui uma peça que não esteja cadastrada.
+- Se uma combinação exigir uma peça ausente do inventário, informe claramente que ela não está cadastrada.
+- Ao recomendar um look, liste apenas itens existentes no inventário.
+- Caso o inventário seja insuficiente para montar um look completo, solicite ao usuário o cadastro das peças faltantes.
+
+## Fonte única da verdade
+
+- `INVENTORY.json` é a única fonte autorizada para roupas e acessórios do usuário.
+- Memórias de conversas anteriores, inferências, exemplos ou suposições não podem ser utilizadas para compor looks.
+- Toda recomendação deve ser validada contra o inventário antes de ser apresentada.
+
 ## Valores permitidos
 
 ### Ocasiões
